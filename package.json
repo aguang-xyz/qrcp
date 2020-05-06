@@ -1,0 +1,28 @@
+{
+  "name": "qrcp",
+  "version": "1.0.0",
+  "description": "Inspired by [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp). It is a familiar implementation written by javascript.",
+  "main": "qrcp.js",
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "command-line-usage": "^6.1.0",
+    "express": "^4.17.1",
+    "ip": "^1.1.5",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguang-xyz/qrcp.git"
+  },
+  "author": "Guangrui Wang",
+  "license": "MIT",
+  "bin": {
+    "qrcp": "./qrcp.js"
+  },
+  "bugs": {
+    "url": "https://github.com/aguang-xyz/qrcp/issues"
+  },
+  "homepage": "https://github.com/aguang-xyz/qrcp#readme"
+}
