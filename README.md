@@ -1,18 +1,14 @@
-# qrcp
+# QR Copy Command Line
 
-Inspired by [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp).
-It is a familiar implementation written by javascript. Quickly transfer files
-over your local network through QR code in pure terminal.
+Download files over your local network through QRCode in pure command line. Inspired by
+[claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp). It is a familiar
+implementation written by javascript.
 
 ## Install
 
 ```bash
 npm install -g @aguang/qrcp
 ```
-
-## QR Copy Command Line
-
-Download files through QRCode in pure command line. 
 
 ## Synopsis
 
