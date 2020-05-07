@@ -1,5 +1,5 @@
 {
-  "name": "qrcp",
+  "name": "@aguang/qrcp",
   "version": "1.0.0",
   "description": "Inspired by [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp). It is a familiar implementation written by javascript.",
   "main": "qrcp.js",
