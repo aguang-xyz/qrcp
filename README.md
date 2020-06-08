@@ -1,6 +1,7 @@
 # QR Copy Command Line
 
 [![npm version](https://badge.fury.io/js/%40aguang%2Fqrcp.svg)](https://badge.fury.io/js/%40aguang%2Fqrcp)
+![npm](https://img.shields.io/npm/dm/@aguang/qrcp)
 
 Download files over your local network through QRCode in pure command line. Inspired by
 [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp). It is a familiar
